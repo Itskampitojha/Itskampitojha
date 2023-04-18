@@ -1,7 +1,4 @@
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - ❄️ [Artificial intelligence and its impact on everyday life](https://veryfirstblog.hashnode.dev/artificial-intelligence-and-its-impact-on-everyday-life)
- - ❄️ [My First Blog Post](https://veryfirstblog.hashnode.dev/my-first-blog-post)<!-- BLOGPOSTS:END -->
+
 
 
  [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJAzz8-ajh54vg6ax0X1MI1gXTWNP3TPRhDHiWwnxsUxG7UoAeAH3r_153_MJwXurBgEgRTYmtQE&usqp=CAU&ec=48600112)
