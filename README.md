@@ -1,10 +1,9 @@
 
 
 
- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJAzz8-ajh54vg6ax0X1MI1gXTWNP3TPRhDHiWwnxsUxG7UoAeAH3r_153_MJwXurBgEgRTYmtQE&usqp=CAU&ec=48600112) 
-<h1 align="center">Hi 👋, I'm Kampit ojha</h1>
+ 
+<h1 align="center">Hi , I'm Kampit ojha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align= "right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskampitojha&label=Profile%20views&color=0e75b6&style=flat" alt="itskampitojha" /> </p>
 
@@ -14,7 +13,7 @@
 
 - 🌱 I’m currently learning **C++ DSA**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Tech Stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
