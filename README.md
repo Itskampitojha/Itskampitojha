@@ -1,4 +1,4 @@
-![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
+![MasterHead](https://i.pinimg.com/originals/0b/d3/55/0bd3553849f42ca64e2e9502809a3ae1.gif)
 <h1 align="center">Hi 👋, I'm Kampit ojha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
